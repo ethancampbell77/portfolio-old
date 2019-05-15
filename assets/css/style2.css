@@ -1,0 +1,11 @@
+/* Media Queries for mobile - need more work :/ */
+
+
+@media (max-width: 460px) {
+    body {
+        width: 80%;
+    }
+    img.myLogo  {
+        margin-left: 0;
+    }  
+}
