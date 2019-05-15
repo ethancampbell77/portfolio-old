@@ -6,7 +6,7 @@
 * *Past work*
 * *Contant Info*
 
-**Thanks for Looking**
+**Thanks for Looking!**
 
 
 
