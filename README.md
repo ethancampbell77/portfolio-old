@@ -10,7 +10,7 @@
 
 <br>
 
-**https://ethancampbell77.github.io/third-portfolio/**
+**https://ethancampbell77.github.io/portfolio/**
 
 
 
